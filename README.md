@@ -1,6 +1,6 @@
 # AI-ML Internship Projects - InternPe
 
-This repository serves as a **portfolio hub** for the AI & Machine Learning projects I completed during my online internship at **InternPe**. Each project has its own repository with full code, notebooks, and datasets.
+This repository serves as a **portfolio hub** for the AI & Machine Learning projects I completed during my internship at **InternPe**. Each project has its own repository with full code, notebooks, and datasets.
 
 ---
 
