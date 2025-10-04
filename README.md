@@ -9,14 +9,18 @@ This repository serves as a **portfolio hub** for the AI & Machine Learning proj
 ### 1. [Diabetes Prediction] (https://github.com/Divya6859/diabetes-prediction)
 Predict whether a patient has diabetes using Python and Machine Learning.  
 
+
 ### 2. [Car Price Prediction] (https://github.com/Divya6859/car-price-prediction)
 Predict the resale price of cars using Python and Linear Regression.  
+
 
 ### 3. [IPL Score Prediction] (https://github.com/Divya6859/ipl-score-prediction)
 Predict the final score in IPL matches using Python and ML models.  
 
+
 ### 4. [Breast Cancer Prediction] (https://github.com/Divya6859/breast-cancer-prediction)
 Predict whether a tumor is malignant or benign using Python and ML models.  
+
 
 ---
 
